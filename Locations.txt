@@ -1,0 +1,247 @@
+Abkhazia,Sukhumi:|:43.00:|:41.02:|:+4
+Afghanistan,Kabul:|:34.58:|:69.24:|:+4.5
+Aland Islands,Mariehamn:|:60.10:|:19.93:|:+3
+Albania,Tirana:|:41.33:|:19.82:|:+2
+Algeria,Algiers:|:36.75:|:3.04:|:+1
+American Samoa,Pago Pago:|:-14.28:|:-170.70:|:-11
+Andorra,Andorra la Vella:|:42.51:|:1.52:|:+2
+Angola,Luanda:|:-8.84:|:13.29:|:+1
+Anguilla,The Valley:|:18.21:|:-63.06:|:-4
+Antigua and Barbuda,St. John's:|:17.13:|:-61.85:|:-2.5
+Argentina,Buenos Aires:|:-34.60:|:-58.38:|:-3
+Armenia,Yerevan:|:40.18:|:44.50:|:+4
+Aruba,Oranjestad:|:12.51:|:-70.01:|:-4
+Australia,Canberra:|:-35.28:|:149.13:|:+10
+Austria,Vienna:|:48.21:|:16.37:|:+2
+Azerbaijan,Baku:|:40.41:|:49.87:|:+4
+Bahamas,Nassau:|:25.05:|:-77.36:|:-4
+Bahrain,Manama:|:26.23:|:50.59:|:+3
+Bangladesh,Dhaka:|:23.81:|:90.41:|:+6
+Barbados,Bridgetown:|:13.11:|:-59.60:|:-4
+Belarus,Minsk:|:53.90:|:27.56:|:+3
+Belgium,Brussels:|:50.85:|:4.35:|:+2
+Belize,Belmopan:|:17.25:|:-88.76:|:-6
+Benin,Porto-Novo:|:6.50:|:2.63:|:+1
+Bermuda,Hamilton:|:32.29:|:-64.78:|:-4
+Bhutan,Thimphu:|:27.47:|:89.64:|:+6
+Bolivia,La Paz:|:-16.49:|:-68.12:|:-4
+Bosnia and Herzegovina,Sarajevo:|:43.86:|:18.41:|:+2
+Botswana,Gaborone:|:-24.63:|:25.92:|:+2
+Bouvet Island,Bouvet Island:|:-54.43:|:3.38:|:+2
+Brazil,Brasilia:|:-15.79:|:-47.88:|:-3
+British Virgin Islands,Road Town:|:18.43:|:-64.62:|:-4
+Brunei,Bandar Seri Begawan:|:4.90:|:114.94:|:+8
+Bulgaria,Sofia:|:42.70:|:23.32:|:+3
+Burkina Faso,Ouagadougou:|:12.37:|:-1.52:|:+0
+Burundi,Bujumbura:|:-3.36:|:29.36:|:+2
+Cambodia,Phnom Penh:|:11.54:|:104.89:|:+7
+Cameroon,Yaounde:|:3.85:|:11.50:|:+1
+Canada,Ottawa:|:45.42:|:-75.70:|:-4
+Cape Verde,Praia:|:14.93:|:-23.51:|:-1
+Cayman Islands,George Town:|:19.29:|:-81.37:|:-5
+Central African Republic,Bangui:|:4.39:|:18.56:|:+1
+Chad,N'Djamena:|:12.13:|:15.06:|:+1
+Chile,Santiago:|:-33.45:|:-70.67:|:-4
+China,Beijing:|:39.90:|:116.41:|:+8
+Christmas Island,Flying Fish Cove:|:-10.42:|:105.68:|:+7
+Cocos (Keeling) Islands,West Island:|:-12.19:|:96.83:|:+6.5
+Colombia,Bogota:|:4.71:|:-74.07:|:-5
+Comoros,Moroni:|:-11.72:|:43.25:|:+3
+Congo (DRC),Kinshasa:|:-4.44:|:15.27:|:+1
+Congo (Republic),Brazzaville:|:-4.26:|:15.24:|:+1
+Cook Islands,Avarua:|:-21.21:|:-159.78:|:-10
+Costa Rica,San Jose:|:9.93:|:-84.09:|:-7
+Cote d'Ivoire,Yamoussoukro:|:6.83:|:-5.29:|:+0
+Croatia,Zagreb :|:45.82:|:15.98:|:+2
+Cuba,Havana:|:23.05:|:-82.35:|:-4
+Curacao,Willemstad:|:12.12:|:-68.88:|:-4
+Cyprus,Nicosia:|:35.19:|:33.38:|:+2
+Czech Republic,Prague:|:50.08:|:14.44:|:+2
+Denmark,Copenhagen:|:55.68:|:12.57:|:+2
+Djibouti,Djibouti:|:11.57:|:43.15:|:+3
+Dominica,Roseau:|:15.31:|:-61.38:|:-4
+Dominican Republic,Santo Domingo:|:18.49:|:-69.93:|:-4
+Ecuador,Quito:|:-0.18:|:-78.47:|:-5
+Egypt,Cairo:|:30.04:|:31.24:|:+2
+El Salvador,San Salvador:|:13.69:|:-89.22:|:-6
+Equatorial Guinea,Malabo:|:3.75:|:8.74:|:+1
+Eritrea,Asmara:|:15.32:|:38.93:|:+3
+Estonia,Tallinn:|:59.44:|:24.75:|:+3
+Ethiopia,Addis Ababa:|:8.98:|:38.76:|:+3
+Falkland Islands,Stanley:|:-51.70:|:-57.85:|:-3
+Faroe Islands,Torshavn:|:62.01:|:-6.79:|:+1
+Fiji,Suva:|:-18.12:|:178.45:|:+12
+Finland,Helsinki:|:60.17:|:24.94:|:+3
+France,Paris:|:48.86:|:2.35:|:+2
+French Guiana,Cayenne:|:4.92:|:-52.31:|:-3
+French Polynesia,Papeete:|:-17.55:|:-149.56:|:-10
+Gabon,Libreville:|:0.42:|:9.47:|:+1
+Gambia,Banjul:|:13.45:|:-16.58:|:+0
+Georgia,Tbilisi:|:41.72:|:44.83:|:+4
+Germany,Berlin:|:52.52:|:13.40:|:+2
+Ghana,Accra:|:5.60:|:-0.19:|:+0
+Gibraltar,Gibraltar:|:36.14:|:-5.35:|:+2
+Greece,Athens:|:37.98:|:23.73:|:+3
+Greenland,Nuuk:|:64.18:|:-51.69:|:-2
+Grenada,St. George's:|:12.06:|:-61.75:|:-4
+Guadeloupe,Basse-Terre:|:16.01:|:-61.71:|:-4
+Guam,Hagatna:|:13.47:|:144.75:|:+10
+Guatemala,Guatemala City:|:14.63:|:-90.51:|:-6
+Guernsey,St. Peter Port:|:49.46:|:-2.54:|:+1
+Guinea,Conakry:|:9.64:|:-13.58:|:+0
+Guinea-Bissau,Bissau:|:11.88:|:-15.62:|:+0
+Guyana,Georgetown:|:6.80:|:-58.16:|:-4
+Haiti,Port-au-Prince:|:18.59:|:-72.31:|:-4
+Honduras,Tegucigalpa:|:14.07:|:-87.19:|:-6
+Hong Kong,Hong Kong:|:22.40:|:114.11:|:+8
+Hungary,Budapest:|:47.50:|:19.04:|:+2
+Iceland,Reykjavik:|:64.13:|:-21.82:|:+0
+India,New Delhi:|:28.61:|:77.21:|:+5.5
+Indonesia,Jakarta:|:-6.21:|:106.85:|:+7
+Iran,Tehran:|:35.69:|:51.39:|:+4.5
+Iraq,Baghdad:|:33.31:|:44.36:|:+3
+Ireland,Dublin:|:53.35:|:-6.26:|:+1
+Isle of Man,Douglas:|:54.15:|:-4.49:|:+1
+Israel,Tel Aviv:|:32.09:|:34.78:|:+3
+Italy,Rome:|:41.90:|:12.50:|:+2
+Jamaica,Kingston:|:18.04:|:-76.80:|:-5
+Japan,Tokyo:|:35.71:|:139.73:|:+9
+Jersey,St. Helier:|:49.19:|:-2.11:|:+1
+Jordan,Amman:|:31.96:|:35.95:|:+3
+Kazakhstan,Astana:|:51.16:|:71.47:|:+6
+Kenya,Nairobi:|:-1.29:|:36.82:|:+3
+Kiribati,Tarawa Atoll:|:1.45:|:172.97:|:+12
+Kosovo,Pristina:|:42.66:|:21.17:|:+2
+Kuwait,Kuwait City:|:29.38:|:47.98:|:+3
+Kyrgyzstan,Bishkek:|:42.87:|:74.57:|:+6
+Laos,Vientiane:|:17.98:|:102.63:|:+7
+Latvia,Riga:|:56.95:|:24.11:|:+3
+Lebanon,Beirut:|:33.89:|:35.50:|:+3
+Lesotho,Maseru:|:-29.36:|:27.51:|:+2
+Liberia,Monrovia:|:6.29:|:-10.76:|:+0
+Libya,Tripoli:|:32.89:|:13.19:|:+2
+Liechtenstein,Vaduz:|:47.14:|:9.52:|:+2
+Lithuania,Vilnius:|:54.69:|:25.28:|:+3
+Luxembourg,Luxembourg:|:49.61:|:6.13:|:+2
+Macau,Macau:|:22.17:|:113.55:|:+8
+Macedonia (FYROM),Skopje:|:42.00:|:21.43:|:+2
+Madagascar,Antananarivo:|:-18.88:|:47.51:|:+3
+Malawi,Lilongwe:|:-13.96:|:33.77:|:+2
+Malaysia,Kuala Lumpur:|:3.14:|:101.69:|:+8
+Maldives,Male:|:4.18:|:73.51:|:+5
+Mali,Bamako:|:12.64:|:-8.00:|:+0
+Malta,Valletta:|:35.90:|:14.51:|:+2
+Marshall Islands,Majuro:|:7.12:|:171.19:|:+12
+Martinique,Fort-de-France:|:14.62:|:-61.06:|:-4
+Mauritania,Nouakchott:|:18.07:|:-15.96:|:+0
+Mauritius,Port Louis:|:-20.17:|:57.50:|:+4
+Mayotte,Mamoudzou:|:-12.78:|:45.23:|:+3
+Mexico,Mexico City:|:19.43:|:-99.13:|:-5
+Micronesia,Palikir:|:6.91:|:158.16:|:+11
+Moldova,Chisinau:|:47.01:|:28.86:|:+3
+Monaco,Monaco:|:43.74:|:7.42:|:+2
+Mongolia,Ulaanbaatar:|:47.89:|:106.91:|:+8
+Montenegro,Podgorica:|:42.43:|:19.26:|:+2
+Montserrat,Plymouth:|:16.71:|:-62.22:|:-5
+Morocco,Rabat:|:33.97:|:-6.85:|:+1
+Mozambique,Maputo:|:-25.89:|:32.61:|:+2
+Myanmar (Burma),Naypyidaw:|:19.76:|:96.08:|:+6.5
+Nagorno-Karabakh,Stepanakert:|:39.83:|:46.76:|:+4
+Namibia,Windhoek:|:-22.56:|:17.07:|:+2
+Nauru,Yaren:|:-0.55:|:166.92:|:+12
+Nepal,Kathmandu:|:27.72:|:85.32:|:+5.8
+Netherlands,Amsterdam:|:52.37:|:4.90:|:+2
+Netherlands Antilles,Willemstad :|:12.11:|:-68.93:|:-4
+New Caledonia,Noumea:|:-22.26:|:166.45:|:+11
+New Zealand,Wellington:|:-41.29:|:174.78:|:+12
+Nicaragua,Managua:|:12.11:|:-86.24:|:-6
+Niger,Niamey:|:13.51:|:2.13:|:+1
+Nigeria,Abuja:|:9.08:|:7.40:|:+1
+Niue,Alofi:|:-19.06:|:-169.92:|:-11
+Norfolk Island,Kingston:|:-29.06:|:167.96:|:+11
+North Korea,Pyongyang:|:39.04:|:125.76:|:+9
+Northern Cyprus,Nicosia:|:35.19:|:33.38:|:+2
+Northern Mariana Islands,Saipan:|:15.18:|:145.75:|:+10
+Norway,Oslo:|:59.91:|:10.75:|:+2
+Oman,Muscat:|:23.59:|:58.41:|:+4
+Pakistan,Islamabad:|:33.73:|:73.09:|:+5
+Palau,Ngerulmud:|:7.50:|:134.62:|:+9
+Palestine,Ramallah:|:31.91:|:35.54:|:+3
+Panama,Panama City:|:9.10:|:-79.40:|:-5
+Papua New Guinea,Port Moresby:|:-9.44:|:147.18:|:+10
+Paraguay,Asuncion:|:-25.26:|:-57.58:|:-4
+Peru,Lima:|:-12.05:|:-77.04:|:-5
+Philippines,Manila:|:14.60:|:120.98:|:+8
+Pitcairn Islands,Adamstown:|:-25.07:|:-130.10:|:-8
+Poland,Warsaw:|:52.23:|:21.01:|:+2
+Portugal,Lisbon:|:38.72:|:-9.14:|:+1
+Puerto Rico,San Juan:|:18.47:|:-66.11:|:-4
+Qatar,Doha:|:25.29:|:51.53:|:+3
+Reunion,Saint-Denis:|:-20.88:|:55.45:|:+2
+Romania,Bucharest:|:44.43:|:26.10:|:+3
+Russia,Moscow:|:55.76:|:37.62:|:+3
+Rwanda,Kigali:|:-1.96:|:30.11:|:+2
+Saint Pierre and Miquelon,St. Pierre:|:46.78:|:-56.18:|:-2
+Saint Vincent,Kingstown:|:13.16:|:-61.22:|:-4
+Samoa,Apia:|:-13.85:|:-171.75:|:+11
+San Marino,San Marino:|:43.94:|:12.45:|:+2
+Sao Tome and Principe,Sao Tome:|:0.33:|:6.73:|:+0
+Saudi Arabia,Riyadh:|:24.75:|:46.90:|:+3
+Senegal,Dakar:|:14.76:|:-17.37:|:+0
+Serbia,Belgrade:|:44.79:|:20.45:|:+2
+Seychelles,Victoria:|:-4.62:|:55.45:|:+4
+Sierra Leone,Freetown:|:8.47:|:-13.23:|:+0
+Singapore,Singapore:|:1.28:|:103.85:|:+8
+Slovakia,Bratislava:|:48.15:|:17.11:|:+2
+Slovenia,Ljubljana:|:46.06:|:14.51:|:+2
+Solomon Islands,Honiara:|:-9.45:|:159.97:|:+11
+Somalia,Mogadishu:|:2.05:|:45.32:|:+3
+South Africa,Pretoria:|:-25.75:|:28.23:|:+2
+South Korea,Seoul:|:37.57:|:126.98:|:+9
+South Ossetia,Tskhinvali:|:42.22:|:43.96:|:+4
+South Sudan,Juba:|:4.86:|:31.57:|:+3
+Spain,Madrid:|:40.42:|:-3.70:|:+2
+Sri Lanka,Sri Jayawardenepura Kotte:|:6.89:|:79.90:|:+5.5
+St. Barthelemy,Gustavia:|:17.90:|:-62.85:|:-4
+St. Kitts and Nevis,Basseterre:|:17.30:|:-62.72:|:-4
+St. Lucia,Castries:|:14.01:|:-60.99:|:-4
+St. Martin,Marigot:|:18.07:|:-63.08:|:-4
+Sudan,Khartoum:|:15.50:|:32.56:|:+2
+Suriname,Paramaribo:|:5.85:|:-55.20:|:-3
+Svalbard,Longyearbyen :|:78.06:|:22.05:|:+2
+Swaziland,Mbabane:|:-26.31:|:31.14:|:+2
+Sweden,Stockholm:|:59.33:|:18.07:|:+2
+Switzerland,Bern:|:46.95:|:7.45:|:+2
+Syria,Damascus:|:33.51:|:36.28:|:+3
+Taiwan,Taipei:|:25.03:|:121.57:|:+8
+Tajikistan,Dushanbe:|:38.56:|:68.79:|:+5
+Tanzania,Dodoma:|:-6.16:|:35.75:|:+3
+Thailand,Bangkok:|:13.76:|:100.50:|:+7
+Timor-Leste,Dili:|:-8.56:|:125.56:|:+9
+Togo,Lome:|:6.17:|:1.23:|:+0
+Tokelau,Nukunonu:|:-9.20:|:-171.85:|:-11
+Tonga,Nuku'alofa:|:-21.14:|:-175.20:|:-11
+Transnistria,Tiraspol:|:46.85:|:29.60:|:+3
+Trinidad and Tobago,Port of Spain:|:10.65:|:-61.50:|:-4
+Tristan da Cunha,Edinburgh of tSS:|:-37.07:|:-12.31:|:+0
+Tunisia,Tunis:|:36.81:|:10.18:|:+1
+Turkey,Ankara:|:39.93:|:32.86:|:+3
+Turkmenistan,Ashgabat:|:37.96:|:58.33:|:+5
+Turks Caicos Islands,Cockburn Town:|:21.47:|:-71.14:|:-4
+Tuvalu,Funafuti:|:-8.52:|:179.20:|:+12
+U.S. Virgin Islands,Charlotte Amalie:|:18.34:|:-64.93:|:-4
+Uganda,Kampala:|:0.35:|:32.58:|:+3
+Ukraine,Kiev:|:50.45:|:30.52:|:+3
+United Arab Emirates,Abu Dhabi:|:24.30:|:54.70:|:+4
+United Kingdom,London:|:51.51:|:-0.13:|:+1
+United States,Washington:|:38.91:|:-77.04:|:-4
+Uruguay,Montevideo:|:-34.90:|:-56.16:|:-3
+Uzbekistan,Tashkent:|:41.30:|:69.24:|:+5
+Vanuatu,Port Vila:|:-17.73:|:168.33:|:+11
+Vatican City,Vatican City:|:41.90:|:12.45:|:+2
+Venezuela,Caracas:|:10.48:|:-66.90:|:-4
+Vietnam,Hanoi:|:21.03:|:105.83:|:+7
+Wallis and Futuna,Mata-Utu:|:-13.28:|:-176.18:|:-12
+Yemen,Sana'a:|:15.37:|:44.19:|:+3
+Zambia,Lusaka:|:-15.39:|:28.32:|:+2
+Zimbabwe,Harare:|:-17.83:|:31.03:|:+2
