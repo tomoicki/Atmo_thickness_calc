@@ -4,7 +4,6 @@ import math
 import numpy
 import tkinter as tk
 from ast import literal_eval
-from contextlib import redirect_stdout
 from tkinter import ttk
 
 def is_num(x): #function which will check if input was a number
