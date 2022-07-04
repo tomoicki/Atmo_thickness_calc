@@ -1,2 +1,3 @@
 print("nico")
-nowy commiy
+
+print('new line')
